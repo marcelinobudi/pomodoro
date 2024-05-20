@@ -1,0 +1,2 @@
+Q: Close window
+N: next
